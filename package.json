@@ -1,0 +1,19 @@
+{
+  "name": "hun-phone-validator",
+  "version": "1.0.0",
+  "description": "Validator for hungarian mobile phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hheszter/hun-phone-validator.git"
+  },
+  "author": "Eszter Haszon-Hegedüs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hheszter/hun-phone-validator/issues"
+  },
+  "homepage": "https://github.com/hheszter/hun-phone-validator#readme"
+}
