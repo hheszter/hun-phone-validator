@@ -1,6 +1,6 @@
 {
   "name": "hun-phone-validator",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Validator for hungarian mobile phone numbers",
   "main": "index.js",
   "scripts": {
